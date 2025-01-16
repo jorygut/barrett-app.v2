@@ -1,7 +1,7 @@
-# Barrett App
+# Barrett Research Tools
 
 ## Overview
-The Barrett App is a series of tools designed to aid researchers in the Young Lab in their analysis of c-elegan movement and behavioral patterns. Each tool can be accessed through the navigation bar in the top right of the page.
+The Barrett Research Toolsareis a series of tools designed to aid researchers in the Young Lab in their analysis of c-elegan movement and behavioral patterns. Each tool can be accessed through the navigation bar in the top right of the page.
 
 ## Features
 ### Trackmate Analyzer
